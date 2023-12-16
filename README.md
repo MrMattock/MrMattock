@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+This is all very new to me so please bear with me.
+I am a UK secondary teacher of computer science, maths and IT.
+I am looking to develop my own knowledge of online development environments and help my students do the same.
+At the moment we are using local installs of Visual Studio and I am hoping that using CodeSpaces will allow me to have a better oversight of what my students are doing with their code as well as allowing them to experience a different way of developing code.
+🤔 If anyone has any experience of using CodeSpaces and GitHub along with Visual Code Studio in a school setting then I would love to hear from you about how you make it work. As a school we use Visual Basic in key stage 4 with Microsoft Small Basic in key stage 3. There are also times when Python is useful to use but I am still developing that along with the use of the Raspberry Pis.
 <!--
 **MrMattock/MrMattock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
